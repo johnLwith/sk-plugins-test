@@ -11,7 +11,7 @@ This application showcases:
 ## Running the Application
 
 ```bash
-# Set Azure OpenAI secrets
+# Set secrets
 dotnet user-secrets set "AI:ApiKey" "your-deepseek-api-key"
 ```
 
